@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+__pycache__/
+*.pyc
+
+# Optional: Large data files
+*.csv
